@@ -14,3 +14,5 @@ Qlik Senseインストール前に、該当のサーバからライセンスサ�
 3.ステータスコードを取得<br>
 
 4.404エラー(NotFound)が返れば疎通OK、その他のステータスコードなら疎通NGを表示<br>
+
+![WS000067](https://user-images.githubusercontent.com/74577198/99487004-b736d280-29a8-11eb-9b6d-363718a99c6f.JPG)
